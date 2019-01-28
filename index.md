@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+test test test ! 
+Hello Jekyll!
+Jekyllがなにかよくわかってないけど、とりあえず動いた。
