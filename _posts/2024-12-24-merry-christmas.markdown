@@ -11,20 +11,20 @@
 データエンジニアという役割も気質的に合っているような気もしています。なぜかというところはまだうまく言語化できませんが、SQL書いてボンと答えがすぐ出る感じが気に入ってます。
 
 来年やりたいこと
-・dbt の開発環境をよくしたい
-・リアルタイム基盤の機運があれば使いたい
-・Snowflakeも使ってみたい
-・データを整えて民主化を進めたい
+- dbt の開発環境をよくしたい
+- リアルタイム基盤の機運があれば使いたい
+- Snowflakeも使ってみたい
+- データを整えて民主化を進めたい
 
 ## アウトプット
 - Qiita (6 entiries)
- - https://qiita.com/zackey2
-  -  2024年11月09日 いつの間にかPhpStormからGitHubのPullRequestが見れなくなった時の対処[Could not connect to repository]
-  -  2024年10月07日 Salesforceで No such column 'EmailTemplateId' on entity 'EmailMessage'.
-  - TROCCOを使ったSalesforceへの一括データ投入の勘所
-  - [備忘録]dbtで愚直な新旧比較をするためのスクリプト
-  - Google Cloud Workflowsに過度な期待をするな
-  - 2024年02月08日 SQLFluffで特定のファイルの特定のルールのチェックを無効化する方法
+  - https://qiita.com/zackey2
+    -  2024年11月09日 いつの間にかPhpStormからGitHubのPullRequestが見れなくなった時の対処[Could not connect to repository]
+    -  2024年10月07日 Salesforceで No such column 'EmailTemplateId' on entity 'EmailMessage'.
+    - TROCCOを使ったSalesforceへの一括データ投入の勘所
+    - [備忘録]dbtで愚直な新旧比較をするためのスクリプト
+    - Google Cloud Workflowsに過度な期待をするな
+    - 2024年02月08日 SQLFluffで特定のファイルの特定のルールのチェックを無効化する方法
 - Zenn (1 entriy and 1 scrap)
   -  https://zenn.dev/tsuzaki92
   - デフォルトでdbtのビルド対象からモデルを除外する
@@ -61,8 +61,10 @@ Duolingoというアプリで200日以上毎日ログインしています。と
 ## 趣味
 サウナが好きで、休日は心の安らぎを求めてたまにサウナに行ってます。
 江戸遊がコワーキングスペースもあって最高です。
+
 キャンプも趣味でしたが、今年はキャンプはなかなか行けませんでした。お誘いいただいたことも何度かありましたが、キャンプに行きたい気持ちが低減していて行けませんでした。
 来年は、キャンプいくぞ！
+
 筋トレも下火になって、ついには解約してしまいました。健全な精神は肉体に宿るのに！ 
 来年は、筋トレもやっていくぞ！ 
 
